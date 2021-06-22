@@ -1,2 +1,2 @@
-# learning
-Learning Codes
+# Repository of Codes
+Codes Dedicated to Learning
